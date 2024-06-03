@@ -7,7 +7,7 @@ This is rpg game
 <a href="https://ibb.co/gWcQQRD"><img src="https://i.ibb.co/jwjqqrL/image.png" alt="image" align="middle"></a>
 
 ### <a name="_cuupadslvj45"></a>**CÀI ĐẶT:**
-download this source and run file Roguelike.exe
+Download this source and run file Roguelike.exe in folder 2dt2
 
 ### <a name="_cuupadslvj45"></a>**THÀNH VIÊN:**
 - Developer: Kai, Junny
